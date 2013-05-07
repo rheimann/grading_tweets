@@ -1,0 +1,6 @@
+Twitter Flesch-Kincaid Reading Index by [1]Richard Heimann & Ted
+Procita is licensed under a [2]Creative Commons
+Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+ Links:
+   1. https://github.com/rheimann
+   2. http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US
